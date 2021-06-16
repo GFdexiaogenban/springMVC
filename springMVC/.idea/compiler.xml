@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03-annotation" />
+        <module name="07-Interceptor" />
+        <module name="05-JSON" />
+        <module name="04-controller" />
+        <module name="06-Ajax" />
+        <module name="01-servlet" />
+        <module name="02-HelloMVC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="6-JSON" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
